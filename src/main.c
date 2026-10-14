@@ -26,7 +26,7 @@ int main(int argc, char *argv[]){
 		r = _div(atof(a), atof(b));
 		printf("%lf",r);
 	}
-	else {printf("Erreur de parametres");}
+	else {printf("Erreur dee parametres");}
 	}
 	else {printf("Erreur de parametres");}
 	return 0;
